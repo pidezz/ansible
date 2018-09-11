@@ -1,5 +1,5 @@
 ---
-- name: teste
+- name: volta awx
   hosts: 10.200.6.205
   tasks:  
     - name: copia dir
