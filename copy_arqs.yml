@@ -3,6 +3,6 @@
   hosts: 10.200.6.205
   tasks:  
     - name: copia dir
-      command: touch /home/pidezz/sophiacomph.txt
+      command: touch /home/sophiacomph.txt
 
 
